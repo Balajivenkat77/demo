@@ -1,5 +1,3 @@
-package quick;
-
 import java.util.Arrays;
 public class Quick
 {
